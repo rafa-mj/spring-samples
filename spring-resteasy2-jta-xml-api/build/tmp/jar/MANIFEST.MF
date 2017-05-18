@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Implementation-Title: spring-resteasy2-jta-xml-api
+Implementation-Version: 1.0-SNAPSHOT
+

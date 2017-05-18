@@ -1,0 +1,10 @@
+dependencies {
+    compile group: 'javax.ws.rs', name: 'jsr311-api', version: jaxrs_version
+}
+
+jar {
+    manifest {
+        attributes 'Implementation-Title': project.name,
+                'Implementation-Version': project.version
+    }
+}
